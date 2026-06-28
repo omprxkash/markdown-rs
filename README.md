@@ -27,11 +27,43 @@ Fork it, strip out what you don't need, keep whatever is useful.
 
 Learning AI engineering → [`learning/`](learning/)
 
+Course watchlist (watched + queued) → [`learning/courses/watchlist.md`](learning/courses/watchlist.md)
+
 Understanding how job platforms filter candidates → [`job-search/platforms/`](job-search/platforms/)
 
 Profile copy you can paste and edit → [`job-search/linkedin/`](job-search/linkedin/) or [`job-search/naukri/`](job-search/naukri/)
 
 An opinionated learning sequence → [`roadmap.md`](roadmap.md)
+
+---
+
+## Structure
+
+```
+markdown-rs/
+├── learning/
+│   ├── concepts/        # plain-language explainers (AI, LLMs, RAG, APIs, Git, Python, DSA)
+│   ├── resources/
+│   │   ├── ai/          # foundations · llms · rag · agents · engineering
+│   │   ├── fullstack.md
+│   │   ├── databases.md
+│   │   ├── system-design.md
+│   │   ├── devops.md
+│   │   ├── python.md
+│   │   ├── dsa.md
+│   │   └── mathematics.md
+│   ├── courses/         # watchlist — watched and queued
+│   ├── paths/           # ai-engineer · fullstack
+│   ├── projects/        # builds and project ideas
+│   └── career/          # interview prep, certifications
+├── job-search/
+│   ├── linkedin/        # headline, about, experience copy
+│   ├── naukri/          # headline, summary, skills, projects
+│   └── platforms/       # how each platform filters candidates
+├── ideas/               # project specs worth building
+├── roadmap.md
+└── tools.md
+```
 
 ---
 
