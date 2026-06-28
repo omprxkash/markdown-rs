@@ -1,4 +1,4 @@
-﻿# Neoware Data Scientist Interview Prep (personal — do not push to GitHub)
+﻿# Data Scientist Interview Prep (personal — do not push to GitHub)
 
 YOUR 3-MINUTE OPENING STORY
 Three beats. Speak them, don't recite them. Each beat invites a follow-up.
